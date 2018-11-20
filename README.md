@@ -3,7 +3,7 @@
   
 #### Repos for current and past projects
       
-*Econometrics* -- 2 projects using R for financial data analysis  
+*Econometrics* -- 2 projects for financial and portfolio data analysis using R  
   
 *Featured Projects* -- Reducing Traffic Mortality Analysis in the US using Python  
   
