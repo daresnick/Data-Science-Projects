@@ -3,7 +3,7 @@
   
 #### Respository for current and past projects
       
-Econometrics  
-Featured Projects  
-Misc Projects  
+Econometrics -- 2 projects using R for financial data analysis
+Featured Projects -- Reducing Traffic Mortality Analysis in the US
+Misc Projects  -- Assortment of miscellaneous projects
 
