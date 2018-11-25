@@ -6,8 +6,8 @@
 * *Econometrics* -- 2 projects for financial and portfolio data analysis using R  
   
 * *Featured Projects* -- These projects are usually the most recent. 
-      - Hand Washing Analysis
-      - Exploring 67 years of LEGO toys
+      - Hand Washing Analysis  
+      - Exploring 67 years of LEGO toys  
       - Moby Dick Word Frequency Analysis in Python  
       - Reducing Traffic Mortality Analysis in the US using Python  
   
