@@ -1,7 +1,7 @@
 # Featured Projects  
   
 ### Hand Washing Analysis using data from Dr. Semmelweis in the 1840s  
-  - This is a small project that uses pandas plot to show the effects of deaths after giving birth of two different clinics before and after hand-washing. Bootstrapping is also used to create a 95% confidence interval on the difference on the proportion of deaths before and after hand-washing.  
+  - This is a small project that uses pandas plot to show the effects of deaths after giving birth of two different clinics before and after hand-washing. Bootstrapping is also used to create a 95% confidence interval on the difference of the proportion of deaths before and after hand-washing.  
   
 ### Exploring 67 years of LEGO toys    
   - This is a very small project that explores different Lego toys using groupby, aggregation, and pandas plot.  
