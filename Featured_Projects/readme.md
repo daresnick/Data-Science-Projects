@@ -6,6 +6,9 @@
 ### Exploring 67 years of LEGO toys    
   - This is a very small project that explores different Lego toys using groupby, aggregation, and pandas plot.  
   
+### The Hottest Topics in Machine Learning    
+  - This is a small project that uses Natural Language Processing on NIPS papers to uncover the trendiest topics in machine learning research by using grouby, wordcloud, CountVectorizer, and Latent Dirichlet Allocation (LDA).   
+
 ### Moby Dick Word Frequency Analysis  
   - This is a small project that shows how to use basic functioning web-scraping tools 'request' and BeautifulSoup to extract the text of the book Moby Dick in order to use the Natural Language ToolKit to find the frequency of words used in the text.  
   
