@@ -6,6 +6,6 @@ Econometrics_Project_1 -- In this project we analyzed and predicted a portfolio 
 
 Econometrics_Project_2 -- Presentation slides of this project.  
 
-Econometrics_Project_2_Final -- In this project, we analyzed a portfolio of diverse securities. The team fit, back-tested, and forecasted the returns of the portfolio with ARIMA and GARCH models. Additionally, we used an efficient frontier technique to optimize our portfolio to get the best expected returns for our level of risk. We compared the root squared mean error (RMSE) of the forecasts from both models of our portfolio over the last 5 days of returns to analyze which model performed better.
+Econometrics_Project_2_Final -- In this project, we analyzed a portfolio of diverse securities. The team fit, back-tested, and forecasted the returns of the portfolio with ARIMA and GARCH models. Additionally, we used an efficient frontier technique to optimize our portfolio to get the best expected returns for our level of risk. We compared the root mean squared error (RMSE) of the forecasts from both models of our portfolio over the last 5 days of returns to analyze which model performed better.
 
 MSDS_8390-JCook_KKirasich_DResnick-Project_1 -- Tableau files for the presentation of Project 1.  
